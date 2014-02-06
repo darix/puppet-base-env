@@ -1,0 +1,3 @@
+A profile in this directory combines multiple profile modules into a role.
+
+In an ideal world a node would reference only one role module in the end.

@@ -1,0 +1,3 @@
+All modules installed here are pulled via either git or puppet forge.
+
+They should _not_ contain any site specific informations.
